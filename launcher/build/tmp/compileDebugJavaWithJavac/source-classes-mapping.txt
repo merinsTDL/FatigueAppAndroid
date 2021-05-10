@@ -1,0 +1,10 @@
+com/unity3d/player/R.java
+ com.unity3d.player.R
+ com.unity3d.player.R$style
+com/VDI/FatigueAPP/R.java
+ com.VDI.FatigueAPP.R
+ com.VDI.FatigueAPP.R$mipmap
+ com.VDI.FatigueAPP.R$string
+ com.VDI.FatigueAPP.R$style
+com/VDI/FatigueAPP/BuildConfig.java
+ com.VDI.FatigueAPP.BuildConfig
